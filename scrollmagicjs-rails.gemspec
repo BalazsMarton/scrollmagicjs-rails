@@ -17,6 +17,6 @@ Gem::Specification.new do |spec|
   
   spec.require_paths = ["lib"]
   
-  spec.add_dependency "railties", ">= 4", "< 5.0"
+  spec.add_dependency "railties", ">= 4"
 
 end
